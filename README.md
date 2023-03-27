@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Portfolio Builder**
 
-- 🌱 I’m currently learning **Advance React JS**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **React Js**
 
